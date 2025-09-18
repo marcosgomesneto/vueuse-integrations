@@ -108,7 +108,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^13.9.0",
-    "@vueuse/shared": "workspace:*"
+    "@vueuse/shared": "^13.9.0"
   },
   "devDependencies": {
     "@types/nprogress": "catalog:types",
